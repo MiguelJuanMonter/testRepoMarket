@@ -12,3 +12,4 @@ RecoveryCommons:
 
 sql:
 - 'testFilesSql/**/*.sql'
+- 'testFilesSql/*.sql'
