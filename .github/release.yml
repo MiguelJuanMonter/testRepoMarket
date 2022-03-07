@@ -9,12 +9,11 @@ changelog:
   categories:
     - title: Breaking Changes 🛠
       labels:
-        - Semver-Major
-        - breaking-change
+        - source
+        - RecoveryCommons
     - title: Exciting New Features 🎉
       labels:
-        - Semver-Minor
-        - enhancement
+        - sql
     - title: Other Changes
       labels:
         - "*"
